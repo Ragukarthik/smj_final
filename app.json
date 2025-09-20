@@ -26,6 +26,12 @@
     },
     "android": {
       "package": "com.ragukarthik.smj"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "be8adcf1-0d04-48b8-9500-437a637cc249"
+      }
     }
   }
 }
