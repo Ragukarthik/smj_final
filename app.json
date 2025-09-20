@@ -25,7 +25,7 @@
       "typedRoutes": true
     },
     "android": {
-      "package": "com.ragukarthik.smj"
+      "package": "com.ragukarthik.smj_final"
     },
     "extra": {
       "router": {},
